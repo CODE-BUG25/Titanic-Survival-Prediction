@@ -1,5 +1,18 @@
 #  Titanic Survival Prediction
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-red)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Dataset](https://img.shields.io/badge/Dataset-Titanic-lightblue)
+![Accuracy](https://img.shields.io/badge/Model%20Accuracy-~85%25-success)
+![Project Type](https://img.shields.io/badge/Type-End--to--End%20ML%20Project-purple)
+
 
 ##  Overview
 
@@ -130,14 +143,18 @@ This visualization shows how confident the model is in its predictions.
 
 ##  Tech Stack
 
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-red)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Dataset](https://img.shields.io/badge/Dataset-Titanic-lightblue)
+![Accuracy](https://img.shields.io/badge/Model%20Accuracy-~85%25-success)
+![Project Type](https://img.shields.io/badge/Type-End--to--End%20ML%20Project-purple)
 ---
 
 ##  Project Structure
